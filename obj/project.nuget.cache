@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "leHHqZ6dvXrPG7NRrf9YY6cUT+UzEk1ouRcsddfsyCOU2bP3BLhrVnzGQnlOIikW3T18ioVLL92vnyNqQ0IaoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Halis\\desktop\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Halis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Halis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
